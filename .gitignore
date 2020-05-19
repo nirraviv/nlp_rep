@@ -1,3 +1,5 @@
 output/
 runs/
-__pychache__
+__pycache__/
+env/
+.idea/
